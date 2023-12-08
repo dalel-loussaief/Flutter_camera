@@ -1,0 +1,1 @@
+ C:\\Users\\LENOVO\\Documents\\tpFlutter_camera\\flutter_cameraPlugin\\.dart_tool\\flutter_build\\49a7dc5546f006e3d4484818ce78ee89\\native_assets.yaml: 
